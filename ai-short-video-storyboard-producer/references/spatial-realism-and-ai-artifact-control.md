@@ -99,4 +99,3 @@ Reject or rewrite the prompt when any of these appear in the expected frame:
 - Lighting is evenly synthetic with no practical source or contact shadow.
 - Skin, fabric, product surface, or packaging looks waxy, plastic, or overly smooth.
 - Generated small text is treated as reliable factual copy.
-

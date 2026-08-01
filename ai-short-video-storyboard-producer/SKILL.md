@@ -375,4 +375,3 @@ Check:
 - CTA matches the platform and does not make unsupported urgency claims.
 - The default deliverable is one coherent landscape high-density board.
 - Every storyboard source frame remains an independent native 9:16 asset with no stretch, horizontal generation, or destructive crop.
-

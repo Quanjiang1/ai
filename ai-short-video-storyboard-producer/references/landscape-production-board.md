@@ -163,4 +163,3 @@ Always include:
 - Small text is added in layout and remains readable at delivery resolution.
 - Conversion notes describe a measurable test, not generic marketing language.
 - If the user requested Seedance-ready pictures, the board is invalid unless eight independent realistic 9:16 source frames already exist or are provided inline.
-

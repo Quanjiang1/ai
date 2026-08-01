@@ -100,4 +100,3 @@ Cache only complete matching outputs; never edit derivatives. Keep -14 LUFS, -1.
 
 - Read [project-schema.md](references/project-schema.md) for every project, analysis, plan, cache, approval, clip, and QA field.
 - Read [workflow.md](references/workflow.md) for ASR, selective inspection, timing, audio, proxy review, publishing, and troubleshooting.
-

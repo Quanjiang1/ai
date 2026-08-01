@@ -160,4 +160,3 @@ Avoid:
 - No packaging gibberish presented as trustworthy text
 - No duplicated faces, products, or components
 - No unsupported visual claim
-

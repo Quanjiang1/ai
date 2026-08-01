@@ -119,4 +119,3 @@ Read [tiktok-script-library-full-extract.md](tiktok-script-library-full-extract.
 - You need exact wording from one of the source workflows.
 - The product category matches a source pattern such as fashion, street interview, tutorial, retail discovery, short drama, or Seedance/Image2.
 - You need more examples of Spanish/Spanglish hook structure, motion prompts, or story-board wording.
-

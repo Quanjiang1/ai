@@ -86,4 +86,3 @@ real skin/fabric/material texture, controlled highlights on product edges,
 purposeful slow camera movement, no glossy CGI, no stock-ad perfection,
 no waxy skin, no over-smoothed product, no fake studio backdrop
 ```
-
